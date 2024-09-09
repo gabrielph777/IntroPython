@@ -1,6 +1,3 @@
-'''
-
-'''
 idade = int(input("Digite sua idade: "))     #Entrada do valor da idade
 
 #Estrutura de Seleção
